@@ -1,0 +1,19 @@
+relativeURLs = true
+title = "Richard Dwumfour"
+theme = ["academimal"]
+sectionPagesMenu = "main"
+defaultContentLanguage = "en"
+ignorefiles = [ "hugo_travis_ci", ".travis.yml" , "make.sh"]
+
+[params]
+    shortbio = "Economics Ph.D. student at Curtin University. Interested in Macroeconomics, Monetary Economics, and Financial Economics."
+    logo = "jold_portrait_ucv.jpg" 
+    author = "Richard Dwumfour"
+    sitename = "Personal website of Richard Dwumfour"
+    
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  

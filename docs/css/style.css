@@ -501,6 +501,7 @@ footer {
   width: 700px;
   float: left;
   position: fixed;
+  background-color: #f1f1f1;
   bottom: 50px;
   -webkit-font-smoothing: subpixel-antialiased; }
 

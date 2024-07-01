@@ -7,7 +7,7 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml" , "make.sh"]
 
 [params]
     shortbio = "Economics Ph.D. student at Curtin University. Interested in Macroeconomics, Monetary Economics, and Financial Economics."
-    logo = "richard_profile_pic.jpg" 
+    logo = "favicon.ico" 
     author = "Richard Dwumfour"
     sitename = "Personal website of Richard Dwumfour"
     

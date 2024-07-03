@@ -577,9 +577,8 @@ footer {
 }
 
 .styled-button {
-  display: inline-block;
-  padding: 5px 15px;
-  font-size: 12px;
+  padding: 5px 5px;
+  font-size: 11px;
   color: #267CB9;
   background-color: white; /* Adjust color as needed */
   border: 2px solid #a7adb1;

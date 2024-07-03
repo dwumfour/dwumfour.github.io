@@ -578,11 +578,11 @@ footer {
 
 .styled-button {
   padding: 5px 5px;
-  font-size: 11px;
+  font-size: 10px;
   color: #267CB9;
   background-color: white; /* Adjust color as needed */
-  border: 2px solid #a7adb1;
-  border-radius: 3px; /* Adjust radius as needed */
+  border: 0.8px solid #f5f8f8f6;
+  border-radius: 5px; /* Adjust radius as needed */
   text-align: center;
   transition: background-color 0.1s ease;
 }

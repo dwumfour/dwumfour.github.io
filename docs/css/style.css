@@ -578,26 +578,19 @@ footer {
 
 .styled-button {
   display: inline-block;
-  padding: 10px 20px;
+  padding: 8px 20px;
   font-size: 16px;
-  color: #fff;
-  background-color: #007bff; /* Adjust color as needed */
-  border: none;
-  border-radius: 5px; /* Adjust radius as needed */
+  color: #267CB9;
+  background-color: white; /* Adjust color as needed */
+  border: 2px solid #267CB9;
+  border-radius: 2px; /* Adjust radius as needed */
   text-align: center;
-  cursor: pointer;
   transition: background-color 0.3s ease;
 }
 
 .styled-button:hover {
-  background-color: #0056b3; /* Adjust hover color as needed */
+  background-color: #267CB9; /* Adjust hover color as needed */
+  color: white;
+  transition: 0.5s;
 }
 
-.styled-button:active {
-  background-color: #004494; /* Adjust active color as needed */
-}
-
-.styled-button:focus {
-  outline: none; /* Remove the default focus outline */
-  box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.5); /* Custom focus style */
-}

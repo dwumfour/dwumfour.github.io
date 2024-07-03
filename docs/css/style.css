@@ -577,7 +577,7 @@ footer {
 }
 
 .styled-button {
-  padding: 3px 3px;
+  padding: 4px 3px;
   font-size: 10px;
   color: #267CB9;
   background-color: white; /* Adjust color as needed */
@@ -585,7 +585,7 @@ footer {
   border-radius: 5px; /* Adjust radius as needed */
   text-align: center;
   transition: background-color 0.1s ease;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .styled-button:hover {

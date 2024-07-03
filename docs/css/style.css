@@ -578,19 +578,19 @@ footer {
 
 .styled-button {
   display: inline-block;
-  padding: 8px 20px;
-  font-size: 16px;
+  padding: 2px 10px;
+  font-size: 4px;
   color: #267CB9;
   background-color: white; /* Adjust color as needed */
   border: 2px solid #267CB9;
   border-radius: 2px; /* Adjust radius as needed */
   text-align: center;
-  transition: background-color 0.3s ease;
+  transition: background-color 0.1s ease;
 }
 
 .styled-button:hover {
-  background-color: #267CB9; /* Adjust hover color as needed */
+  background-color: white; /* Adjust hover color as needed */
   color: white;
-  transition: 0.5s;
+  transition: 0.1s;
 }
 

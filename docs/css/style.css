@@ -585,6 +585,7 @@ footer {
   border-radius: 5px; /* Adjust radius as needed */
   text-align: center;
   transition: background-color 0.1s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .styled-button:hover {

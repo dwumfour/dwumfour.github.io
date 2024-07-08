@@ -12,5 +12,7 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml" , "make.sh"]
     sitename = "Personal website of Richard Dwumfour"
     
 
-
-  
+  [markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
